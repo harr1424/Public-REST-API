@@ -1,0 +1,8 @@
+/target
+.gitignore
+Dockerfile
+Dockerignore
+.git
+m.txt
+*.tar
+*.gz

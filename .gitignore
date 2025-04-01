@@ -1,0 +1,7 @@
+/target
+*.crt
+*.key
+*.env
+*.tar
+*.gz
+.idea/
